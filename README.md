@@ -118,11 +118,8 @@ Personal-Chatbot/
 
 ## Snaps
 **Index**
-![index.html](https://github.com/user-attachments/assets/9d0b1243-e8c8-490c-abe6-df19d04a7d5b)
-**Login**
-![login.html](https://github.com/user-attachments/assets/b3a194d6-70ef-429e-8b32-a139e32962ff)
-**Sign-up**
-![sign-up.html](https://github.com/user-attachments/assets/6b5303f2-e150-485e-8bae-7d49920c86e5)
-**Profile**
-![profile.html](https://github.com/user-attachments/assets/fb211bb0-74fb-45d2-83f8-f05d2194e221)
+![Bot interface](https://github.com/user-attachments/assets/bf1e853e-42ca-455c-858e-a67e5eb78c5b)
+![Bot Response](https://github.com/user-attachments/assets/ad2ed74f-24d7-461c-ac28-47009b50c2c9)
+
+
  
