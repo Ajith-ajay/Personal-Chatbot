@@ -105,8 +105,6 @@ streamlit run main.py
 
 ##  Project Structure
 
-```bash
-
 Personal-Chatbot/
 │
 ├── env/                # Python virtual environment (ignored in Git)
