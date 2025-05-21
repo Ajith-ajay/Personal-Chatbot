@@ -104,14 +104,14 @@ streamlit run main.py
 ---
 
 ##  Project Structure
-
+```bash
 Personal-Chatbot/
 │
 ├── env/                # Python virtual environment (ignored in Git)
 ├── main.py             # Your chatbot code or integration script
 ├── README.md           # You're reading this!
 └── .gitignore          # To exclude env/ from version control
-
+```
 ---
 
 ## Snaps
